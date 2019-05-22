@@ -1,0 +1,6 @@
+plugin:
+    name: 'ERegnier.eventgallery::lang.plugin.name'
+    description: 'ERegnier.eventgallery::lang.plugin.description'
+    author: 'Erwan Regnier'
+    icon: oc-icon-image
+    homepage: 'https://eregnier.it'
